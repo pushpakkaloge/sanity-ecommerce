@@ -396,6 +396,11 @@
     "xtend" "^4.0.1"
     "zen-observable" "^0.3.0"
 
+"@sanity/image-url@^1.0.1":
+  "integrity" "sha512-AdKQ3zMk7WdoNwoJPrAvQhW+kUtBldBX0nHtnGy+rwmgsCQ0rAXasrgH43Fhmsp/yB6piiq+F2d5qEuBFsdQVg=="
+  "resolved" "https://registry.npmjs.org/@sanity/image-url/-/image-url-1.0.1.tgz"
+  "version" "1.0.1"
+
 "@sanity/request@0.0.3":
   "integrity" "sha512-vmKTO5IV1bU15u438BcuY2YCaAtKeBzHt+y8BCf6tNFZN0oA0RCIgr38UCZ+bPw5QoIuyDaUmN5xwursfP3EYQ=="
   "resolved" "https://registry.npmjs.org/@sanity/request/-/request-0.0.3.tgz"
@@ -643,6 +648,11 @@
   "integrity" "sha512-8KeCrAtPMabo/XW14B+R9sZYoClx1n0b+WYgwDKZPtWR3TcdvWzdSy7mPyFEmR5WU1St9v1PW6sdO5dkFOEzfA=="
   "resolved" "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001343.tgz"
   "version" "1.0.30001343"
+
+"canvas-confetti@^1.5.1":
+  "integrity" "sha512-Ncz+oZJP6OvY7ti4E1slxVlyAV/3g7H7oQtcCDXgwGgARxPnwYY9PW5Oe+I8uvspYNtuHviAdgA0LfcKFWJfpg=="
+  "resolved" "https://registry.npmjs.org/canvas-confetti/-/canvas-confetti-1.5.1.tgz"
+  "version" "1.5.1"
 
 "caseless@~0.12.0":
   "integrity" "sha512-4tYFyifaFfGacoiObjJegolkwSU4xQNGbVgUiNYVUxbQ2x2lUsFvY4hVgVzGiIe6WLOPqycWXA40l+PWsxthUw=="
