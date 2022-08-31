@@ -13,8 +13,9 @@ import toast from "react-hot-toast";
 const ProuctDetails = ({ product, products }) => {
   const [index, setIndex] = useState(0);
   const { image, name, details, price } = product;
+  // const [showCart,setShowCart] = useState(false);
   
-const {increaseQuantityHandler,decreaseQuantityHandler,qty,addCartHandler} = useStateContext();
+const {increaseQuantityHandler,decreaseQuantityHandler,qty,addCartHandler,setShowCart} = useStateContext();
 const handleBuyNow = () => {
   addCartHandler(product, qty);
   setShowCart(true);
